@@ -134,7 +134,7 @@ Names of the consequences:
 
 # Calculus of Indication Interpreted for Logic
 
-What follows is a mapping of the laws of form onto boolean logic notiation:
+What follows is a mapping of the laws of form onto boolean logic notation:
 
 The mapping will be provided in a markdown table:
 
